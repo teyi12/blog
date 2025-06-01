@@ -1,61 +1,3 @@
-/* .profilfoto {
-    max-width: 150px;
-    height: auto;
-    border-radius: 8px;
-}
-
-
-h2, h3 {
-    text-align: center;
-}
-
-p {
-    margin: 0px;
-}
-
-hr {
-    border-color: lightskyblue;
-}
-
-.container {
-
-    width: 500px;
-    margin: 10px auto;
-    
-}
-
-.details {
-
-    width: 100%;
-    overflow: hidden;
-
-}
-
-.details img {
-    
-    height: 150px;
-    width: 150px;
-    float: left;
-    border-radius: 50%;
-    margin-right: 20px;
-    margin-top: 5px;
-}
-
-.list-details  {
-
-    float: left;
-    list-style-type: none;
-    margin-top: 25px;
-    padding: 0;
-
-}
-
-.cv-section {
-
-    padding-bottom: 20px;
-} */
-
-
 /* Allgemeines Layout */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -73,7 +15,7 @@ body {
     padding: 30px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
-}
+} */
 
 /* Titel */
 h1 {
@@ -151,4 +93,4 @@ hr {
     border-left: 4px solid #007acc;
     margin-top: 20px;
     border-radius: 5px;
-}
+} */
